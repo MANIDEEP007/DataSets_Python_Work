@@ -1,0 +1,251 @@
+COUNTRY NAME,CONTINENT NAME,COUNTRY ISO2 CODE,COUNTRY ISO3 CODE,CAPITAL,CURRENCY CODE,PHONE CODE
+Andorra,EU,AD,AND,Andorra la Vella,EUR,376
+United Arab Emirates,AS,AE,ARE,Abu Dhabi,AED,971
+Afghanistan,AS,AF,AFG,Kabul,AFN,93
+Antigua and Barbuda,NA,AG,ATG,St. John's,XCD,+1-268
+Anguilla,NA,AI,AIA,The Valley,XCD,+1-264
+Albania,EU,AL,ALB,Tirana,ALL,355
+Armenia,AS,AM,ARM,Yerevan,AMD,374
+Angola,AF,AO,AGO,Luanda,AOA,244
+Antarctica,AN,AQ,ATA,,,
+Argentina,SA,AR,ARG,Buenos Aires,ARS,54
+American Samoa,OC,AS,ASM,Pago Pago,USD,+1-684
+Austria,EU,AT,AUT,Vienna,EUR,43
+Australia,OC,AU,AUS,Canberra,AUD,61
+Aruba,NA,AW,ABW,Oranjestad,AWG,297
+Aland Islands,EU,AX,ALA,Mariehamn,EUR,+358-18
+Azerbaijan,AS,AZ,AZE,Baku,AZN,994
+Bosnia and Herzegovina,EU,BA,BIH,Sarajevo,BAM,387
+Barbados,NA,BB,BRB,Bridgetown,BBD,+1-246
+Bangladesh,AS,BD,BGD,Dhaka,BDT,880
+Belgium,EU,BE,BEL,Brussels,EUR,32
+Burkina Faso,AF,BF,BFA,Ouagadougou,XOF,226
+Bulgaria,EU,BG,BGR,Sofia,BGN,359
+Bahrain,AS,BH,BHR,Manama,BHD,973
+Burundi,AF,BI,BDI,Bujumbura,BIF,257
+Benin,AF,BJ,BEN,Porto-Novo,XOF,229
+Saint Barthelemy,NA,BL,BLM,Gustavia,EUR,590
+Bermuda,NA,BM,BMU,Hamilton,BMD,+1-441
+Brunei,AS,BN,BRN,Bandar Seri Begawan,BND,673
+Bolivia,SA,BO,BOL,Sucre,BOB,591
+"Bonaire, Saint Eustatius and Saba ",NA,BQ,BES,,USD,599
+Brazil,SA,BR,BRA,Brasilia,BRL,55
+Bahamas,NA,BS,BHS,Nassau,BSD,+1-242
+Bhutan,AS,BT,BTN,Thimphu,BTN,975
+Bouvet Island,AN,BV,BVT,,NOK,
+Botswana,AF,BW,BWA,Gaborone,BWP,267
+Belarus,EU,BY,BLR,Minsk,BYR,375
+Belize,NA,BZ,BLZ,Belmopan,BZD,501
+Canada,NA,CA,CAN,Ottawa,CAD,1
+Cocos Islands,AS,CC,CCK,West Island,AUD,61
+Democratic Republic of the Congo,AF,CD,COD,Kinshasa,CDF,243
+Central African Republic,AF,CF,CAF,Bangui,XAF,236
+Republic of the Congo,AF,CG,COG,Brazzaville,XAF,242
+Switzerland,EU,CH,CHE,Berne,CHF,41
+Ivory Coast,AF,CI,CIV,Yamoussoukro,XOF,225
+Cook Islands,OC,CK,COK,Avarua,NZD,682
+Chile,SA,CL,CHL,Santiago,CLP,56
+Cameroon,AF,CM,CMR,Yaounde,XAF,237
+China,AS,CN,CHN,Beijing,CNY,86
+Colombia,SA,CO,COL,Bogota,COP,57
+Costa Rica,NA,CR,CRI,San Jose,CRC,506
+Cuba,NA,CU,CUB,Havana,CUP,53
+Cape Verde,AF,CV,CPV,Praia,CVE,238
+Curacao,NA,CW,CUW, Willemstad,ANG,599
+Christmas Island,AS,CX,CXR,Flying Fish Cove,AUD,61
+Cyprus,EU,CY,CYP,Nicosia,EUR,357
+Czech Republic,EU,CZ,CZE,Prague,CZK,420
+Germany,EU,DE,DEU,Berlin,EUR,49
+Djibouti,AF,DJ,DJI,Djibouti,DJF,253
+Denmark,EU,DK,DNK,Copenhagen,DKK,45
+Dominica,NA,DM,DMA,Roseau,XCD,+1-767
+Dominican Republic,NA,DO,DOM,Santo Domingo,DOP,+1-809 and 1-829
+Algeria,AF,DZ,DZA,Algiers,DZD,213
+Ecuador,SA,EC,ECU,Quito,USD,593
+Estonia,EU,EE,EST,Tallinn,EUR,372
+Egypt,AF,EG,EGY,Cairo,EGP,20
+Western Sahara,AF,EH,ESH,El-Aaiun,MAD,212
+Eritrea,AF,ER,ERI,Asmara,ERN,291
+Spain,EU,ES,ESP,Madrid,EUR,34
+Ethiopia,AF,ET,ETH,Addis Ababa,ETB,251
+Finland,EU,FI,FIN,Helsinki,EUR,358
+Fiji,OC,FJ,FJI,Suva,FJD,679
+Falkland Islands,SA,FK,FLK,Stanley,FKP,500
+Micronesia,OC,FM,FSM,Palikir,USD,691
+Faroe Islands,EU,FO,FRO,Torshavn,DKK,298
+France,EU,FR,FRA,Paris,EUR,33
+Gabon,AF,GA,GAB,Libreville,XAF,241
+United Kingdom,EU,GB,GBR,London,GBP,44
+Grenada,NA,GD,GRD,St. George's,XCD,+1-473
+Georgia,AS,GE,GEO,Tbilisi,GEL,995
+French Guiana,SA,GF,GUF,Cayenne,EUR,594
+Guernsey,EU,GG,GGY,St Peter Port,GBP,+44-1481
+Ghana,AF,GH,GHA,Accra,GHS,233
+Gibraltar,EU,GI,GIB,Gibraltar,GIP,350
+Greenland,NA,GL,GRL,Nuuk,DKK,299
+Gambia,AF,GM,GMB,Banjul,GMD,220
+Guinea,AF,GN,GIN,Conakry,GNF,224
+Guadeloupe,NA,GP,GLP,Basse-Terre,EUR,590
+Equatorial Guinea,AF,GQ,GNQ,Malabo,XAF,240
+Greece,EU,GR,GRC,Athens,EUR,30
+South Georgia and the South Sandwich Islands,AN,GS,SGS,Grytviken,GBP,
+Guatemala,NA,GT,GTM,Guatemala City,GTQ,502
+Guam,OC,GU,GUM,Hagatna,USD,+1-671
+Guinea-Bissau,AF,GW,GNB,Bissau,XOF,245
+Guyana,SA,GY,GUY,Georgetown,GYD,592
+Hong Kong,AS,HK,HKG,Hong Kong,HKD,852
+Heard Island and McDonald Islands,AN,HM,HMD,,AUD, 
+Honduras,NA,HN,HND,Tegucigalpa,HNL,504
+Croatia,EU,HR,HRV,Zagreb,HRK,385
+Haiti,NA,HT,HTI,Port-au-Prince,HTG,509
+Hungary,EU,HU,HUN,Budapest,HUF,36
+Indonesia,AS,ID,IDN,Jakarta,IDR,62
+Ireland,EU,IE,IRL,Dublin,EUR,353
+Israel,AS,IL,ISR,Jerusalem,ILS,972
+Isle of Man,EU,IM,IMN,"Douglas, Isle of Man",GBP,+44-1624
+India,AS,IN,IND,New Delhi,INR,91
+British Indian Ocean Territory,AS,IO,IOT,Diego Garcia,USD,246
+Iraq,AS,IQ,IRQ,Baghdad,IQD,964
+Iran,AS,IR,IRN,Tehran,IRR,98
+Iceland,EU,IS,ISL,Reykjavik,ISK,354
+Italy,EU,IT,ITA,Rome,EUR,39
+Jersey,EU,JE,JEY,Saint Helier,GBP,+44-1534
+Jamaica,NA,JM,JAM,Kingston,JMD,+1-876
+Jordan,AS,JO,JOR,Amman,JOD,962
+Japan,AS,JP,JPN,Tokyo,JPY,81
+Kenya,AF,KE,KEN,Nairobi,KES,254
+Kyrgyzstan,AS,KG,KGZ,Bishkek,KGS,996
+Cambodia,AS,KH,KHM,Phnom Penh,KHR,855
+Kiribati,OC,KI,KIR,Tarawa,AUD,686
+Comoros,AF,KM,COM,Moroni,KMF,269
+Saint Kitts and Nevis,NA,KN,KNA,Basseterre,XCD,+1-869
+North Korea,AS,KP,PRK,Pyongyang,KPW,850
+South Korea,AS,KR,KOR,Seoul,KRW,82
+Kuwait,AS,KW,KWT,Kuwait City,KWD,965
+Cayman Islands,NA,KY,CYM,George Town,KYD,+1-345
+Kazakhstan,AS,KZ,KAZ,Astana,KZT,7
+Laos,AS,LA,LAO,Vientiane,LAK,856
+Lebanon,AS,LB,LBN,Beirut,LBP,961
+Saint Lucia,NA,LC,LCA,Castries,XCD,+1-758
+Liechtenstein,EU,LI,LIE,Vaduz,CHF,423
+Sri Lanka,AS,LK,LKA,Colombo,LKR,94
+Liberia,AF,LR,LBR,Monrovia,LRD,231
+Lesotho,AF,LS,LSO,Maseru,LSL,266
+Lithuania,EU,LT,LTU,Vilnius,LTL,370
+Luxembourg,EU,LU,LUX,Luxembourg,EUR,352
+Latvia,EU,LV,LVA,Riga,EUR,371
+Libya,AF,LY,LBY,Tripolis,LYD,218
+Morocco,AF,MA,MAR,Rabat,MAD,212
+Monaco,EU,MC,MCO,Monaco,EUR,377
+Moldova,EU,MD,MDA,Chisinau,MDL,373
+Montenegro,EU,ME,MNE,Podgorica,EUR,382
+Saint Martin,NA,MF,MAF,Marigot,EUR,590
+Madagascar,AF,MG,MDG,Antananarivo,MGA,261
+Marshall Islands,OC,MH,MHL,Majuro,USD,692
+Macedonia,EU,MK,MKD,Skopje,MKD,389
+Mali,AF,ML,MLI,Bamako,XOF,223
+Myanmar,AS,MM,MMR,Nay Pyi Taw,MMK,95
+Mongolia,AS,MN,MNG,Ulan Bator,MNT,976
+Macao,AS,MO,MAC,Macao,MOP,853
+Northern Mariana Islands,OC,MP,MNP,Saipan,USD,+1-670
+Martinique,NA,MQ,MTQ,Fort-de-France,EUR,596
+Mauritania,AF,MR,MRT,Nouakchott,MRO,222
+Montserrat,NA,MS,MSR,Plymouth,XCD,+1-664
+Malta,EU,MT,MLT,Valletta,EUR,356
+Mauritius,AF,MU,MUS,Port Louis,MUR,230
+Maldives,AS,MV,MDV,Male,MVR,960
+Malawi,AF,MW,MWI,Lilongwe,MWK,265
+Mexico,NA,MX,MEX,Mexico City,MXN,52
+Malaysia,AS,MY,MYS,Kuala Lumpur,MYR,60
+Mozambique,AF,MZ,MOZ,Maputo,MZN,258
+Namibia,AF,NA,NAM,Windhoek,NAD,264
+New Caledonia,OC,NC,NCL,Noumea,XPF,687
+Niger,AF,NE,NER,Niamey,XOF,227
+Norfolk Island,OC,NF,NFK,Kingston,AUD,672
+Nigeria,AF,NG,NGA,Abuja,NGN,234
+Nicaragua,NA,NI,NIC,Managua,NIO,505
+Netherlands,EU,NL,NLD,Amsterdam,EUR,31
+Norway,EU,NO,NOR,Oslo,NOK,47
+Nepal,AS,NP,NPL,Kathmandu,NPR,977
+Nauru,OC,NR,NRU,Yaren,AUD,674
+Niue,OC,NU,NIU,Alofi,NZD,683
+New Zealand,OC,NZ,NZL,Wellington,NZD,64
+Oman,AS,OM,OMN,Muscat,OMR,968
+Panama,NA,PA,PAN,Panama City,PAB,507
+Peru,SA,PE,PER,Lima,PEN,51
+French Polynesia,OC,PF,PYF,Papeete,XPF,689
+Papua New Guinea,OC,PG,PNG,Port Moresby,PGK,675
+Philippines,AS,PH,PHL,Manila,PHP,63
+Pakistan,AS,PK,PAK,Islamabad,PKR,92
+Poland,EU,PL,POL,Warsaw,PLN,48
+Saint Pierre and Miquelon,NA,PM,SPM,Saint-Pierre,EUR,508
+Pitcairn,OC,PN,PCN,Adamstown,NZD,870
+Puerto Rico,NA,PR,PRI,San Juan,USD,+1-787 and 1-939
+Palestinian Territory,AS,PS,PSE,East Jerusalem,ILS,970
+Portugal,EU,PT,PRT,Lisbon,EUR,351
+Palau,OC,PW,PLW,Melekeok,USD,680
+Paraguay,SA,PY,PRY,Asuncion,PYG,595
+Qatar,AS,QA,QAT,Doha,QAR,974
+Reunion,AF,RE,REU,Saint-Denis,EUR,262
+Romania,EU,RO,ROU,Bucharest,RON,40
+Serbia,EU,RS,SRB,Belgrade,RSD,381
+Russia,EU,RU,RUS,Moscow,RUB,7
+Rwanda,AF,RW,RWA,Kigali,RWF,250
+Saudi Arabia,AS,SA,SAU,Riyadh,SAR,966
+Solomon Islands,OC,SB,SLB,Honiara,SBD,677
+Seychelles,AF,SC,SYC,Victoria,SCR,248
+Sudan,AF,SD,SDN,Khartoum,SDG,249
+Sweden,EU,SE,SWE,Stockholm,SEK,46
+Singapore,AS,SG,SGP,Singapur,SGD,65
+Saint Helena,AF,SH,SHN,Jamestown,SHP,290
+Slovenia,EU,SI,SVN,Ljubljana,EUR,386
+Svalbard and Jan Mayen,EU,SJ,SJM,Longyearbyen,NOK,47
+Slovakia,EU,SK,SVK,Bratislava,EUR,421
+Sierra Leone,AF,SL,SLE,Freetown,SLL,232
+San Marino,EU,SM,SMR,San Marino,EUR,378
+Senegal,AF,SN,SEN,Dakar,XOF,221
+Somalia,AF,SO,SOM,Mogadishu,SOS,252
+Suriname,SA,SR,SUR,Paramaribo,SRD,597
+South Sudan,AF,SS,SSD,Juba,SSP,211
+Sao Tome and Principe,AF,ST,STP,Sao Tome,STD,239
+El Salvador,NA,SV,SLV,San Salvador,USD,503
+Sint Maarten,NA,SX,SXM,Philipsburg,ANG,599
+Syria,AS,SY,SYR,Damascus,SYP,963
+Swaziland,AF,SZ,SWZ,Mbabane,SZL,268
+Turks and Caicos Islands,NA,TC,TCA,Cockburn Town,USD,+1-649
+Chad,AF,TD,TCD,N'Djamena,XAF,235
+French Southern Territories,AN,TF,ATF,Port-aux-Francais,EUR,
+Togo,AF,TG,TGO,Lome,XOF,228
+Thailand,AS,TH,THA,Bangkok,THB,66
+Tajikistan,AS,TJ,TJK,Dushanbe,TJS,992
+Tokelau,OC,TK,TKL,,NZD,690
+East Timor,OC,TL,TLS,Dili,USD,670
+Turkmenistan,AS,TM,TKM,Ashgabat,TMT,993
+Tunisia,AF,TN,TUN,Tunis,TND,216
+Tonga,OC,TO,TON,Nuku'alofa,TOP,676
+Turkey,AS,TR,TUR,Ankara,TRY,90
+Trinidad and Tobago,NA,TT,TTO,Port of Spain,TTD,+1-868
+Tuvalu,OC,TV,TUV,Funafuti,AUD,688
+Taiwan,AS,TW,TWN,Taipei,TWD,886
+Tanzania,AF,TZ,TZA,Dodoma,TZS,255
+Ukraine,EU,UA,UKR,Kiev,UAH,380
+Uganda,AF,UG,UGA,Kampala,UGX,256
+United States Minor Outlying Islands,OC,UM,UMI,,USD,1
+United States,NA,US,USA,Washington,USD,1
+Uruguay,SA,UY,URY,Montevideo,UYU,598
+Uzbekistan,AS,UZ,UZB,Tashkent,UZS,998
+Vatican,EU,VA,VAT,Vatican City,EUR,379
+Saint Vincent and the Grenadines,NA,VC,VCT,Kingstown,XCD,+1-784
+Venezuela,SA,VE,VEN,Caracas,VEF,58
+British Virgin Islands,NA,VG,VGB,Road Town,USD,+1-284
+U.S. Virgin Islands,NA,VI,VIR,Charlotte Amalie,USD,+1-340
+Vietnam,AS,VN,VNM,Hanoi,VND,84
+Vanuatu,OC,VU,VUT,Port Vila,VUV,678
+Wallis and Futuna,OC,WF,WLF,Mata Utu,XPF,681
+Samoa,OC,WS,WSM,Apia,WST,685
+Kosovo,EU,XK,XKX,Pristina,EUR,
+Yemen,AS,YE,YEM,Sanaa,YER,967
+Mayotte,AF,YT,MYT,Mamoudzou,EUR,262
+South Africa,AF,ZA,ZAF,Pretoria,ZAR,27
+Zambia,AF,ZM,ZMB,Lusaka,ZMK,260
+Zimbabwe,AF,ZW,ZWE,Harare,ZWL,263
